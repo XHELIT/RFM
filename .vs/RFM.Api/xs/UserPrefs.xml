@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{959744FE-B7FC-4265-AE3F-BCDD818955BD}|Default">
+  <MonoDevelop.Ide.ItemProperties.RFM.Api PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="RFM.Manager/Class1.cs">
+    <Files>
+      <File FileName="RFM.Manager/Class1.cs" Line="28" Column="27" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Rfm.UnitTest FirstBuild="True" />
+</Properties>

@@ -21,11 +21,13 @@ namespace RFM.Manager
 
         public static File CreateFile(string fileName, string path)
         {
+            throw new NotImplementedException("Method yet to be implemented");
+
             var fullPath = IOPath.Combine(path, fileName);
 
             if (IOFile.Exists(fullPath))
             {
-                throw new 
+                //throw new 
             }
 
             return null;

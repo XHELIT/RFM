@@ -5,7 +5,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RFM.Api", "RFM.Api\RFM.Api.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RFM.Manager", "RFM.Manager\RFM.Manager.csproj", "{6F292944-BC1D-4DC0-9A25-3F6D07CB1222}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rfm.UnitTest", "Rfm.UnitTest\Rfm.UnitTest.csproj", "{4E8D5AE8-B867-4C64-B859-C6CCB96FFE38}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RFM.UnitTest", "RFM.UnitTest\RFM.UnitTest.csproj", "{19792353-BD76-44E2-8DB4-0F02A64FC82A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,9 +21,9 @@ Global
 		{6F292944-BC1D-4DC0-9A25-3F6D07CB1222}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6F292944-BC1D-4DC0-9A25-3F6D07CB1222}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6F292944-BC1D-4DC0-9A25-3F6D07CB1222}.Release|Any CPU.Build.0 = Release|Any CPU
-		{4E8D5AE8-B867-4C64-B859-C6CCB96FFE38}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{4E8D5AE8-B867-4C64-B859-C6CCB96FFE38}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{4E8D5AE8-B867-4C64-B859-C6CCB96FFE38}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{4E8D5AE8-B867-4C64-B859-C6CCB96FFE38}.Release|Any CPU.Build.0 = Release|Any CPU
+		{19792353-BD76-44E2-8DB4-0F02A64FC82A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19792353-BD76-44E2-8DB4-0F02A64FC82A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19792353-BD76-44E2-8DB4-0F02A64FC82A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19792353-BD76-44E2-8DB4-0F02A64FC82A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
